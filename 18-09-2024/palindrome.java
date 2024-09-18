@@ -19,6 +19,5 @@ class palindrome{
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         p.isPalindrome(number);
-
     }
 }
