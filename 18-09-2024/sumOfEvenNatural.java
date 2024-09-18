@@ -13,6 +13,6 @@ class sumOfEvenNatural{
         int n = sc.nextInt();
         sumOfEvenNatural s = new sumOfEvenNatural();
         int ans = s.sum(n);
-        System.out.println("Sum of n natural number is : "+ans);
+        System.out.println("Sum of even natural number is : "+ans);
     }
 }
