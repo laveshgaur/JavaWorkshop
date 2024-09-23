@@ -21,6 +21,7 @@ class diagonalSum{
         int c = sc.nextInt();
         int arr[][] = new int [r][c];
         if(r==c){
+            System.out.print("Enter elements : ");
             for(int i=0;i<r;i++){
                 for(int j=0;j<c;j++){
                 arr[i][j]=sc.nextInt();
