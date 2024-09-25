@@ -1,4 +1,3 @@
-import java.util.*;
 class string{
     public static void main(String args[]){
         String s = "java";//String literal method 
