@@ -1,4 +1,4 @@
-//before running the code you have to insert -ea between java and class fiile name  eg. java -ea assertion
+//before running the code you have to insert -ea between java and class file name  eg. java -ea assertion
 import java.util.*;
 class assertion{
     public static void main(String args[]){
