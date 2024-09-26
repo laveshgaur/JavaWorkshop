@@ -9,5 +9,6 @@ class example{
         pack p = new pack();
         int sum = p.add(a,b);
         System.out.println("Sum is : "+sum);
+        sc.close();
     }
 }
