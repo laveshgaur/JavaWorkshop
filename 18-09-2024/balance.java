@@ -14,5 +14,6 @@ class balance{
         Scanner sc = new Scanner(System.in);
         Double bal = sc.nextDouble();
         b.checkBalance(bal);
+        sc.close();
     }
 }
