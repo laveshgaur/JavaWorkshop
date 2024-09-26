@@ -15,5 +15,6 @@ class armstrongNumber{
         else{
             System.out.println("Number is not armstrong");
         }
+        sc.close();
     }
 }
