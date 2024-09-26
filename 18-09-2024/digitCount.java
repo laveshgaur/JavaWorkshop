@@ -8,5 +8,6 @@ class digitCount{
         for(int i=n;i>0;i/=10)
         count++;
         System.out.println(count+" digits in this number");
+        sc.close();
     }
 }
