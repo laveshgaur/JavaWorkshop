@@ -17,5 +17,6 @@ class palindromeString{
         else{
             System.out.println("String is not palindrome");
         }
+        sc.close();
     }
 }
