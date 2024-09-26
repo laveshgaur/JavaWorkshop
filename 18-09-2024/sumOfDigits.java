@@ -9,6 +9,6 @@ class sumOfDigits{
             sumOfDigit+=i%10;
         }
         System.out.println("Sum of digit is "+sumOfDigit);
+        sc.close();
     }
-    sc.close();
 }
