@@ -17,4 +17,5 @@ class primeNumberCheck{
             System.out.println("Number is prime");
         }
     }
+    sc.close();
 }
