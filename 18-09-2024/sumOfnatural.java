@@ -15,4 +15,5 @@ class sumOfnatural{
         int ans = s.sum(n);
         System.out.println("Sum of n natural number is : "+ans);
     }
+    sc.close();
 }
