@@ -8,5 +8,6 @@ class totalMarks{
         System.out.println("Name is "+args[0]);
         System.out.println("Total marks : "+total);
         System.out.println("Average marks : "+(total/(args.length-1)));
+        sc.close();
     }
 }
