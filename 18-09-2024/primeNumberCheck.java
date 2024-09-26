@@ -16,6 +16,6 @@ class primeNumberCheck{
         else{
             System.out.println("Number is prime");
         }
+        sc.close();
     }
-    sc.close();
 }
