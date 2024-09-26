@@ -21,4 +21,5 @@ class sumOfOddNumberBetweenTwo{
         int ans = s.sum(a,b);
         System.out.println("Sum is : "+ans);
     }
+    sc.close();
 }
