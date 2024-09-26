@@ -16,5 +16,6 @@ class greatestOfThree{
         else{
             System.out.println("Greatest of three is "+c);
         }
+        sc.close();
     }
 }
