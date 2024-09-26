@@ -24,5 +24,6 @@ class lowerTriangle{
         else{
             System.out.println("Rows and columns are not equal ");
         }
+        sc.close();
     }
 }

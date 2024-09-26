@@ -23,5 +23,6 @@ class volumeOverloading{
         System.out.println("Volume of cube is : "+volume(a));
         System.out.println("Volume of cuboid is : "+volume(l,b,h));
         System.out.println("Volume of sphere is : "+volume(r));
+        sc.close();
     }
 }

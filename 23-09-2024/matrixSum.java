@@ -42,5 +42,6 @@ class matrixSum{
         else{
             System.out.println("Matrices do not have same rows amd same columns");
         }
+        sc.close();
     }
 }

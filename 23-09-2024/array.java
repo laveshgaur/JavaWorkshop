@@ -14,5 +14,7 @@ class array{
             System.out.print(x+ " ");
         }
         System.out.println();
+
+        sc.close();
     }
 }

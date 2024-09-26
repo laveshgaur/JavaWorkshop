@@ -25,5 +25,6 @@ class deleteElement{
             System.out.print(arr[i]+" ");
         }
         System.out.println();
+        sc.close();
     }
 }

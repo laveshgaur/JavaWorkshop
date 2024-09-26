@@ -23,5 +23,6 @@ class sumOverloading{
         System.out.println("Sum of integers values is : "+sum(a,b));
         System.out.println("Sum of floats values is : "+sum(x,y));
         System.out.println("Sum of long values is : "+sum(x1,y1));
+        sc.close();
     }
 }
