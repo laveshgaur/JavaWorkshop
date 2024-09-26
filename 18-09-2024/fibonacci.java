@@ -15,6 +15,7 @@ class fibonacci{
         int n = sc.nextInt();
         for(int i=0;i<n;i++){
             System.out.print(f.fibo(i)+" ");
+            sc.close();
         }
     }
 }
