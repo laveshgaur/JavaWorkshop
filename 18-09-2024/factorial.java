@@ -11,5 +11,6 @@ class factorial{
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         System.out.println(f.fac(n));
+        sc.close();
     }
 }
