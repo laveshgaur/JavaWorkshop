@@ -14,6 +14,6 @@ class sumOfMultipleOfThree{
         sumOfMultipleOfThree s = new sumOfMultipleOfThree();
         int ans = s.sum(n);
         System.out.println("Sum is : "+ans);
+        sc.close();
     }
-    sc.close();
 }
