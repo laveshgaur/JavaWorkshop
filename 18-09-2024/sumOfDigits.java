@@ -10,4 +10,5 @@ class sumOfDigits{
         }
         System.out.println("Sum of digit is "+sumOfDigit);
     }
+    sc.close();
 }
