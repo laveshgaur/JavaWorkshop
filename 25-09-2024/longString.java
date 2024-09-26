@@ -15,5 +15,6 @@ class longString{
         else{
             System.out.println(s+" has greater length");
         }
+        sc.close();
     }
 }
