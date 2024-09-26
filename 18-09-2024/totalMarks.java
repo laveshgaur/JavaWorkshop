@@ -1,7 +1,7 @@
 //Enter the arguments when you run the byte code file which is class file which will be created when you compile this file  
 class totalMarks{
     public static void main(String args[]){
-        double total = 0.0 ,av;
+        double total = 0.0;
         for(int i=1;i<args.length;i++){
             total+=Double.parseDouble(args[i]);
         }
