@@ -7,5 +7,6 @@ class assertion{
         int age = sc.nextInt();
         assert age>=18:"Not Valid";
         System.out.println("Age is "+age);
+        sc.close();
     }
 }
